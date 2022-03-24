@@ -36,5 +36,5 @@ pip install -r requirements.txt
 ## Running the code
 
 ```
-python webscraping.py
+python main.py
 ```
