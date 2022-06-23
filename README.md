@@ -1,5 +1,7 @@
 # English
 
+This script collects only 3x3x3 data referring to F2L, OLL, PLL, COLL and WV from the site ==> [http://algdb.net/] and saves it in a file in json format.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -42,6 +44,8 @@ python main.py
 ```
 
 # Português
+
+Este script coleta apenas dados 3x3x3 referentes a F2L, OLL, PLL, COLL e WV do site ==> [http://algdb.net/] e salva em um arquivo no formato json.
 
 ## Começando
 
