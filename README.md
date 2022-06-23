@@ -1,3 +1,5 @@
+# English
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -34,6 +36,49 @@ pip install -r requirements.txt
 
 
 ## Running the code
+
+```
+python main.py
+```
+
+# Português
+
+## Começando
+
+Essas instruções fornecerão a você uma cópia do projeto em execução em sua máquina local para fins de desenvolvimento e teste.
+
+## Pré-requisitos
+
+O que você precisa para instalar o software e como instalá-los
+
+* Python 3.x
+* Geckodriver
+* Firefox (você pode usar outro navegador)
+* Algumas bibliotecas Python a seguir
+
+## Instalando
+
+Uma série de exemplos passo a passo que informam como executar um ambiente de desenvolvimento
+
+### Instale as seguintes bibliotecas Python:
+
+ * **requests2** - Requests é a única biblioteca HTTP não OGM para Python, segura para consumo humano;
+ * **pandas** - Uma ótima biblioteca de análise de dados Python;
+ * **lxml** - Biblioteca para processamento de XML e HTML;
+ * **beautfulsoup4** - Biblioteca para extrair dados de arquivos HTML e XML;
+ * **selenium** - Uma API para escrever testes funcionais/de aceitação usando o Selenium WebDriver.
+
+Com:
+```
+pip install -r requirements.txt
+```
+
+### Geckodriver
+
+[Você pode encontrar instruções de instalação no repositório oficial.](https://github.com/mozilla/geckodriver/releases)
+
+
+## Executando o código
 
 ```
 python main.py
